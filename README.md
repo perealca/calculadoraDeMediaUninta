@@ -30,4 +30,10 @@ Para usar esse sistema, acesse alguma IDE que você tenha instalada e que interp
 <br>
 <b>AP3D</b> = Prova parcial 3 escrita.
 </details>
+<details>
+<summary><strong>AVISO IMPORTANTE!!!</strong></summary>
+<br>
+Use <b>.</b> (Ponto final) ao invés de <b>,</b> (Vírgula) em números quebrados.
+<br>
+</details>
 
