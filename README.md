@@ -13,6 +13,7 @@ Segue nesse repositório um sistema python simples para ter uma média parcial d
 <summary><strong>Como usar</strong></summary>
 <br>
 Para usar esse sistema, acesse alguma IDE que você tenha instalada e que interprete python, ou simplesmente use o <a href="https://colab.research.google.com/">Google Collab</a>, copie e cole o código do arquivo <a href="https://github.com/perealca/calculadoraDeMediaUninta/blob/main/calculadoraDeMediaUninta.py/">calculadoraDeMediaUninta.py</a> e rode no sistema que preferir.
+<br>
 </details>
 <details>
 <summary><strong>Legendas</strong></summary>
