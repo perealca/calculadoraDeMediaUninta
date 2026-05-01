@@ -5,7 +5,7 @@ Segue nesse repositório um sistema python simples em um notebook, para ter uma 
 <summary><strong>Ferramentas utilizadas</strong></summary>
 <br>
 <p align="center">
-<a href="https://www.python.org/">
+<a href="https://colab.research.google.com/">
 <picture>
 <img alt="Python" title="Python" height="48" width="48" src="https://cdn.simpleicons.org/python"></picture></a>
 <a href="https://www.python.org/">
